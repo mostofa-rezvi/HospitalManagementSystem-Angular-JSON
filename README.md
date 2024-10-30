@@ -89,7 +89,8 @@ This modular design allows for a smooth user experience and restricting access a
 ## Role 2: Doctor
 
 ### :pushpin: Patient Crud (Doctor)
-![3  Doctor Patient Crud View](https://github.com/user-attachments/assets/f383104d-e11e-4ad7-a150-a9672e98bd36)
+![3  Doctor Patient Crud View](https://github.com/user-attachments/assets/1b8471e6-e7c5-4323-8d8d-f80c1c03b2f3)
+
 
 
 ## Role 3: Nurse
