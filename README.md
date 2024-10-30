@@ -61,7 +61,7 @@ This modular design allows for a smooth user experience and restricting access a
 ## Landing Page:
 
 ### :pushpin: Home Page
-![1  Home, Navbar](https://github.com/user-attachments/assets/aa77d723-5d48-4fab-b951-40799bab58ef)
+![1  Home, Navbar](https://github.com/user-attachments/assets/4680d6ed-0b22-4e49-8ddf-8a2ccd1045c8)
 
 ### :pushpin: All Department
 ![1  Departments](https://github.com/user-attachments/assets/272535ac-6ea4-4660-9cd4-05067928c748)
