@@ -58,6 +58,7 @@ This modular design allows for a smooth user experience and restricting access a
 
 # Screenshots
 
+
 ## Landing Page:
 
 ### :pushpin: Home Page
@@ -66,14 +67,61 @@ This modular design allows for a smooth user experience and restricting access a
 ### :pushpin: All Department
 ![1  Departments](https://github.com/user-attachments/assets/272535ac-6ea4-4660-9cd4-05067928c748)
 
+### :pushpin: Login Page (Also Registration and Forget Password)
+![1  Login](https://github.com/user-attachments/assets/881b7b6f-27ca-4479-80af-4589c3c5e930)
 
 
-### Role 1: Admin
+## Role 1: Admin
+
+### :pushpin: Department Crud (Admin)
+![2  Admin Department Crud View - 2](https://github.com/user-attachments/assets/02b9cf16-f7ca-4148-ab7c-a423d1b37696)
+
+### :pushpin: Doctor Crud (Admin)
+![2  Admin Doctor Crud View](https://github.com/user-attachments/assets/456467ba-9024-48e3-9ff1-eed258b793e6)
+
+### :pushpin: Nurse Crud (Admin)
+![2  Admin Nurse Crud View](https://github.com/user-attachments/assets/299acace-4f5a-44e9-a43c-114e9941937f)
+
+### :pushpin: Receptionist Crud (Admin)
+![2  Admin Receptionist Crud View](https://github.com/user-attachments/assets/7da8d042-883a-4cb9-9a7b-70bbb15b4078)
+
+
+## Role 2: Doctor
+
+### :pushpin: Patient Crud (Doctor)
+![3  Doctor Patient Crud View](https://github.com/user-attachments/assets/f383104d-e11e-4ad7-a150-a9672e98bd36)
+
+
+## Role 3: Nurse
+
+### :pushpin: Appointment List (Nurse)
+![4  Nurse Doctor Appointment List](https://github.com/user-attachments/assets/6e8c87c9-a518-4dbc-9622-d4c0f54595cd)
+
+
+## Role 4: Receptionist
+
+### :pushpin: Doctor Appointment
+![1  Home Appointment](https://github.com/user-attachments/assets/e9e81ebe-41ba-421e-ad52-cdc0aae8dae0)
+
+
+## Role 5: Patient
+
+### :pushpin: Patient Profile (Same for all Users)
+![5  User Profile](https://github.com/user-attachments/assets/96188d0d-42d6-488b-bbd7-bd82a31ae951)
 
 
 
+### :pushpin: Admin Profile (Same for all Users)
+![0  Admin Dashboard](https://github.com/user-attachments/assets/e622cb88-f3af-413b-ab71-886ef634d491)
 
 
+--------------------------------------------------------------
+
+
+**"Suggestions and project Improvements are always Invited!"**  
+Thanks a lot,    
+Project Leader  
+### [Mostofa Rezvi](https://github.com/mostofa-rezvi)
 
 
 
