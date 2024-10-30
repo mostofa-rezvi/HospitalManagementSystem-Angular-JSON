@@ -56,6 +56,20 @@ This modular design allows for a smooth user experience and restricting access a
 
 --------------------------------------------------------------
 
+# Screenshots
+
+## Landing Page:
+
+### :pushpin: Home Page
+![1  Home, Navbar](https://github.com/user-attachments/assets/aa77d723-5d48-4fab-b951-40799bab58ef)
+
+### :pushpin: All Department
+![1  Departments](https://github.com/user-attachments/assets/272535ac-6ea4-4660-9cd4-05067928c748)
+
+
+
+### Role 1: Admin
+
 
 
 
