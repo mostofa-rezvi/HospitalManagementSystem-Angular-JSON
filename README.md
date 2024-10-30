@@ -12,17 +12,17 @@ The **Hospital Management System (HMS)** is a comprehensive application built wi
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
-
-
-Project Overview
+## Project Overview
 The Hospital Management System (HMS) organizes hospital operations by offering specific role-based access for:
 
-Admin: System administration, user and role management, and overall settings.
-Doctor: Access to patient records, diagnosis, prescription management, and report updates.
-Nurse: Monitoring patient vitals and administering prescribed care.
-Receptionist: Handling appointments, admissions, and patient record management.
-Patient: Accessing personal medical information and viewing medical reports.
-This modular design allows for a smooth user experience and enhances security by restricting access according to user roles.
+1. Admin
+2. Doctor
+3. Nurse
+4. Receptionist
+5. Patient
+
+(5 users in the system)
+This modular design allows for a smooth user experience and restricting access according to user roles.
 
 
 
