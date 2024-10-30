@@ -3,16 +3,14 @@
 The **Hospital Management System (HMS)** is a comprehensive application built with **Angular** (Frontend) and **JSON** (Database) to facilitate efficient hospital operations through a robust role-based access control system. Designed with a streamlined and intuitive interface, the application enables secure, well-organized access for each user role, promoting enhanced patient care and operational efficiency.
 --------------------------------------------------------------
 
-
 ## Table of Contents
-- [Project Overview]
-Key Features
-Installation
-Usage
-Screenshots
-Technologies Used
-Contributing
-License
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [License](#license)
+
 
 
 Project Overview
