@@ -49,7 +49,7 @@ This modular design allows for a smooth user experience and restricting access a
 - [<img src="https://github.com/user-attachments/assets/1d546873-8eb2-40e3-bddc-eb903a1fdbcc" width="40" height="40">](https://github.com/mostofa-rezvi)
 - [<img src="https://github.com/user-attachments/assets/83e6db33-502a-433c-8565-774ba217c298" width="40" height="40">](https://github.com/mostofa-rezvi)
 
-**< Software And Tools Required >**
+### Software And Tools Required
 > Java JDK 17+
 
 > Visual Studio
